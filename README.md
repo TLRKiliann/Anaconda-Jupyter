@@ -1,2 +1,3 @@
 # Anaconda-Jupyter
-test
+
+Some class to illustrate @staticmethod, inheritance, with setter & getter functions, etc...
