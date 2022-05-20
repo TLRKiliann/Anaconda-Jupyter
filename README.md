@@ -4,16 +4,23 @@ Some python POO class to illustrate @staticmethod, inheritance, with setter & ge
 
 Some usefull tricks with `numpy - pandas - matplotlib`
 
-To add numpy & pandas :
+---
 
-`conda activate <your_env>`
+###To add numpy & pandas :
 
-1. conda update --all
+1. `conda activate <your_env>`
 
-2. conda install -c anaconda numpy
+2. `conda update --all`
 
-> conda install -c anaconda pandas
+3. `conda install -c anaconda numpy`
 
+4. `conda install -c anaconda pandas`
+
+5. `conda update --all`
+
+Then you can lauch :
+
+`jupyter notebook` and import modules with `import nympy as np` & `import pandas as pd`.
 
 ---
 
