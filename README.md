@@ -6,7 +6,7 @@ Some usefull tricks with `numpy - pandas - matplotlib`
 
 ---
 
-###To add numpy & pandas :
+###To add numpy & pandas###
 
 1. `conda activate <your_env>`
 
@@ -18,7 +18,7 @@ Some usefull tricks with `numpy - pandas - matplotlib`
 
 5. `conda update --all`
 
-Then you can lauch :
+**Then you can lauch**
 
 `jupyter notebook` and import modules with `import nympy as np` & `import pandas as pd`.
 
