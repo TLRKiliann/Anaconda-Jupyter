@@ -6,11 +6,11 @@ Some usefull tricks with `numpy - pandas - matplotlib`
 
 To add numpy & pandas :
 
-> conda activate <your_env>
+`conda activate <your_env>`
 
-> conda update --all
+1. conda update --all
 
-> conda install -c anaconda numpy
+2. conda install -c anaconda numpy
 
 > conda install -c anaconda pandas
 
