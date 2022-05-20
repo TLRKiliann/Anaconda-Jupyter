@@ -6,7 +6,7 @@ Some usefull tricks with `numpy - pandas - matplotlib`
 
 ---
 
-###To add numpy & pandas###
+### To add numpy & pandas to Anaconda & Jupiter
 
 1. `conda activate <your_env>`
 
